@@ -1,0 +1,9 @@
+fastapi
+email-validator
+uvicorn
+redis
+hiredis
+flake8
+jinja2
+aiofiles
+Jinja2
